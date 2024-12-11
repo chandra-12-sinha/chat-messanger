@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Left from './Components/Home/Left/Left'
 import Right from './Components/Home/Right/Right'
 
